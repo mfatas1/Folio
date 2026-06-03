@@ -2,6 +2,24 @@
 
 A full-stack link library for saving articles, generating concise AI summaries, organizing projects, and seeing how topics connect.
 
+**Live demo:** https://folio-frontend-25qf.onrender.com
+
+## Features
+
+- Save links and articles into organized projects
+- Generate concise AI summaries of saved content
+- Surface connections between related topics
+- User accounts and authentication via Supabase
+- Responsive React + TypeScript frontend
+
+## Tech stack
+
+- **Frontend:** React, TypeScript, Vite
+- **Backend:** FastAPI (Python)
+- **Database & Auth:** Supabase (PostgreSQL)
+- **AI:** OpenAI API
+- **Hosting:** Render (frontend + backend), Supabase
+
 ## Local Setup
 
 1. Install backend dependencies:
