@@ -4,6 +4,33 @@ A full-stack link library for saving articles, generating concise AI summaries, 
 
 **Live demo:** https://folio-frontend-25qf.onrender.com
 
+## Screenshots
+
+### Home
+Paste any URL and Folio extracts the title, an AI summary, and topic tags automatically.
+
+![Folio home page](screenshots/02-home.png)
+
+### Library
+Every saved link in one place, searchable and filterable by topic, with AI summaries and keywords.
+
+![Folio library](screenshots/03-library.png)
+
+### Knowledge graph
+An interactive map of your reading — topics become hubs and links cluster around the subjects they cover.
+
+![Folio knowledge graph](screenshots/04-graph.png)
+
+### Projects
+Group links into projects, track reading status, and attach tasks linked to specific sources.
+
+![Folio project workspace](screenshots/05-projects.png)
+
+### Sign in
+Accounts and authentication keep each user's library, projects, and graph private to them.
+
+![Folio sign in](screenshots/01-signin.png)
+
 ## Features
 
 - Save links and articles into organized projects
