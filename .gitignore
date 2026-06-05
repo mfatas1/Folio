@@ -11,3 +11,6 @@ ENV/
 *.db
 *.sqlite
 .DS_Store
+
+# Claude Code local files
+.claude/
